@@ -1,0 +1,38 @@
+body{
+    background-image: url("imagen/fondo\ de\ mariposas.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+ol{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#caja{
+    color: tomato;
+}
+
+.caja{
+    margin: auto;
+    border: 3px solid;
+    ;
+
+}
+
+p{
+    background: silver;
+    color: orange;
+    padding: 20px;
+    border: 20px;
+    margin: 20px;
+}
+
+#caja2{
+    color: rgba(255, 0, 34, 0.644);
+    font-family: 'Mouse Memoirs', sans-serif;
+}

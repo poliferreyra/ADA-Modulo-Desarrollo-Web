@@ -1,0 +1,44 @@
+/*.caja {
+  margin: 100px auto;
+  border: 3px solid #000;
+  width: 600px;
+}
+
+p {
+  background: silver;
+  color: red;
+  padding: 15px 30px 20px 100px;
+  border: 20px rgba(0, 0, 0, 1) double;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 1px;
+}
+
+div.div1 {
+  background-color: red;
+  display: none;
+}
+
+div.div2 {
+  background-color: blue;
+  visibility: hidden;
+}
+*/
+a {
+  display: block;
+}
+
+p {
+    display: inline;
+    background: red;
+    width: 100px;
+    height: 100px;
+  }
+
+  p {
+    display: inline-block;
+    background: red;
+    width: 100px;
+    height: 100px;
+  }

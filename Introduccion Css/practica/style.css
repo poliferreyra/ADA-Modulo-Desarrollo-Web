@@ -1,0 +1,50 @@
+body {
+  background-color: #cfc;
+  color: #00f;
+  font-size: 16px;
+  font-family: georgia, Cambria, serif;
+}
+
+h1 {
+  color: #f00;
+  font-family: verdana, calibri, sans-serif;
+  font-size: 32px;
+  border: 2px solid;
+  border-color: #00f;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+h2 {
+  color: #a00;
+  font-family: verdana, calibri, sans-serif;
+  font-size: 24px;
+  border: 2px solid;
+  border-color: #aaa;
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+b{
+    font-size: 20px;
+}
+
+.datos {
+  color: #060;
+}
+
+.resaltado {
+  color: #fff;
+  background-color: #000;
+}
+
+.bordelista{
+    border: 2px solid;
+    border-color: #0f0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section.img-project{
+    background-color: aquamarine;
+    width: 100vh;
+}
+.img-project{
+    position: relative;
+    width: 300px;
+    height: 400px;
+}
+.img-project img{
+    max-width: 200px;
+    object-fit: cover;
+}
+
+.img-project div{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    backface-visibility: hidden;
+    transition: 2s;
+}
+.img-project .project{
+    background-color: rgb(17, 236, 17);
+    transform: perspective(500px) rotateY(0deg);
+}
+.img-project .back{
+    background-color: rgb(203, 84, 240);
+    transform: perspective(500px) rotateY(180deg);
+}
+.img-project .back p{
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 13px;
+    text-align: center;
+    color: white;
+}
+.img-project img:hover {
+    cursor: pointer;
+}
+.img-project:hover .back {
+    transform: perspective(500px) rotateY(360deg);
+    cursor: pointer;
+}

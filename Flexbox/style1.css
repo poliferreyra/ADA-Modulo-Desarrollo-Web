@@ -1,0 +1,116 @@
+/*.enlaces{
+    display: flex;
+    background-color: gray;
+
+}
+a{
+    width: 20px;
+    border: 2px solid black;
+    padding: 10px;
+}
+*/
+
+/*
+ejercicio 2
+.enlaces {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+
+.enlaces div{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    
+}
+*/
+/*
+ejercicio 3
+.enlaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+  
+  }
+  
+  .enlaces div{
+      border: 1px solid black;
+      padding: 10px;
+      margin: 10px;
+      
+  }
+  */
+
+/*
+  ejercicio 4
+  .enlaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+  }
+  
+  .enlaces div{
+      border: 1px solid black;
+      padding: 10px;
+      margin: 10px;
+      
+  }
+  */
+/*
+  ejercicio 5
+  .enlaces {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+  }
+  
+  .enlaces div{
+      border: 1px solid black;
+      padding: 10px;
+      margin: 10px;
+      
+  }
+*/
+
+/*
+ejercicio 6
+.enlaces {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+  
+  }
+  
+  .enlaces div{
+      border: 1px solid black;
+      padding: 10px;
+      margin: 10px;
+      
+  }
+  */
+
+  /* Ejercicio 7
+.enlaces {
+    display: block;
+    flex-direction: column;
+}
+
+.enlaces div{
+    width: 70px;
+    height: 30px;
+    padding: 5px;
+    background-color: gray;
+    align-items: flex-start;
+    
+    
+}
+*/
+
+
+

@@ -1,0 +1,24 @@
+body {
+  width: 280px;
+  height: 750px;
+  padding: 10px;
+  border: dotted;
+  border-color: red;
+}
+
+.adjetivos {
+  text-transform: uppercase;
+  color: rgba(7, 7, 179, 0.963);
+}
+img {
+  width: 100%;
+}
+a {
+  border: 2px solid black;
+  width: 100px;
+  height: 35px;
+  padding-top: 15px;
+  color: green;
+  display: inline-block;
+  text-align: center;
+}

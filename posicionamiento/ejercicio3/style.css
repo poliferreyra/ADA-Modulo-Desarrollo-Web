@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 500px;
+    height: 300px;
+    background-color: aqua;
+    position: relative;
+  }
+  section div{
+    margin: 20px;
+    font-size: 40px;
+  }
+.c1{
+    background-color: green;
+    width: 80px;
+    height: 200px;
+    position: absolute;
+}
+.c2{
+    background-color: yellow;
+    width: 80px;
+    height: 200px;
+    position: absolute;
+    left: 80px;
+}
+.c3{
+    background-color: red;
+    width: 80px;
+    height: 200px;
+    position: absolute;
+    left: 160px;
+}
+.c4{
+    background-color: blue;
+    width: 80px;
+    height: 200px;
+    position: absolute;
+    left: 240px;
+}

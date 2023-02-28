@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    width: 70%;
+    min-height: 90px;
+    background-color: rgb(99, 202, 99);
+    padding: 10px;
+    margin: 40px ;
+    position: relative;
+
+}
+section div{
+    padding: 3px 1px;
+    position: absolute;
+        
+}
+section :first-child{
+    background-color: rgb(99, 202, 99);
+    width: 465px;
+    height: 80px ;
+
+}
+
+section :nth-child(2){
+    background-color: rgb(223, 240, 69);
+    top: -5px;
+    left: 17px;
+    z-index: 1;
+
+}
+section :nth-child(3){
+    background-color: rgb(238, 131, 9);
+    width: 465px;
+    height: 25px;
+    bottom: 35px;
+}
+
+section :last-child{
+    background-color: rgb(252, 104, 78);
+    width: 465px;
+    height: 25px;
+    bottom: 10px;
+}

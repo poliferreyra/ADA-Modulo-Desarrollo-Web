@@ -1,0 +1,21 @@
+body{
+    font-family: arial, Verdana;
+}
+
+h1{
+    font-family: Georgia;
+    font-variant: small-caps;
+    font-size: 32px;
+}
+
+h2{
+    font-family: Georgia;
+    font-size: 24px;
+    font-style: italic;
+    font-variant: small-caps;
+
+}
+
+.titulos{
+    font-weight: bold;
+}

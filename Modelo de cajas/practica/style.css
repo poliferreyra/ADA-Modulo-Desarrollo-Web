@@ -1,0 +1,18 @@
+body {
+  color: blue;
+}
+
+h1,
+a {
+  color: red;
+}
+
+.fondo-texto {
+  background-color: lightyellow;
+}
+
+.resaltado{
+    color: yellow;
+    background-color: black;
+}
+
